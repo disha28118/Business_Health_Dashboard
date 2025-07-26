@@ -15,25 +15,6 @@ A powerful **Streamlit-based web app** that allows businesses to upload messy da
 
 ---
 
-##  Project Structure
-
-.
-├── app.py
-├── business_data.csv
-├── requirements.txt
-├── README.md
-├── outputs/
-│ └── reports/
-│ └── business_health_report.pdf ← auto-generated
-└── utils/
-├── file_handler.py ← Loads CSV or Excel
-├── cleaner.py ← ML-based data cleaning
-├── visualizer.py ← Dashboard plots
-├── anomalydetection.py ← Outlier/anomaly detection logic
-└── recommendations.py ← Business advice generator
-
----
-
 # Installation
 
 ###  Pre-requisites
