@@ -1,4 +1,4 @@
-Business Health Dashboard: Anomaly Detection & Recommendations System
+## Business Health Dashboard: Anomaly Detection & Recommendations System
 
 A powerful **Streamlit-based web app** that allows businesses to upload messy datasets (CSV or Excel), automatically clean them using a trained machine learning model, detect anomalies, visualize KPIs, and generate actionable recommendations. It also provides a one-click option to export a professional PDF business report.
 
