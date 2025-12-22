@@ -15,29 +15,21 @@ A powerful **Streamlit-based web app** that allows businesses to upload messy da
 
 ---
 
-# Installation
+##  Installation
 
-###  Pre-requisites
+### Pre-requisites
 
 - Python 3.8+
 - pip (Python package installer)
 
-###  Setup Instructions
-
-```bash
-# Clone the repo or extract the ZIP
-cd your_project_directory
-
-# (Optional) Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+### 🔧 Setup Instructions
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
- Export to PDF
+Export to PDF
 Click "Export Report as PDF" in the app to generate a simple, clean business health report containing:
 
 First 20 rows of cleaned data
@@ -49,7 +41,7 @@ Actionable business recommendations
  The report is saved in:
 
 outputs/reports/business_health_report.pdf
- Sample Dashboard Visuals
+Sample Dashboard Visuals
 Revenue Trends over Time
 
 Profit vs Cost Heatmap by Region
@@ -71,9 +63,10 @@ Loss
 
 Cost
 
- Sample File
+Sample File
 A sample dataset business_data.csv with 1000+ rows and appropriate columns is included for quick testing.
 
- Author
+👨‍💻 Author
 Disha Gupta , Paridhi Singh
 Streamlit | Python | Data Science
+
