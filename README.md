@@ -66,7 +66,7 @@ Cost
 Sample File
 A sample dataset business_data.csv with 1000+ rows and appropriate columns is included for quick testing.
 
-👨‍💻 Author
+
 Disha Gupta , Paridhi Singh
 Streamlit | Python | Data Science
 
